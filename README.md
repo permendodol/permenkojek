@@ -18,6 +18,7 @@
 <p><i>Glad to share some of my projects</i></p>
 
 [just-javascript](https://github.com/permenkojek/just-javascript.git) A project where I only focus on javascript.
+[my-portofolio](https://permenkojek.github.io/portofolio/) Its my portofolio, but still under development and it's not completely finished yet.
 <br>
 <p><b>More projects soon....</b></p>
 <p></p>
